@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     var gatoimage = document.getElementById('image2');
         if (!gatoimage) {
+            
             var gato = document.createElement('img');
             gato.src = "https://upload.wikimedia.org/wikipedia/commons/0/04/So_happy_smiling_cat.jpg";
             gato.id = "image2";
