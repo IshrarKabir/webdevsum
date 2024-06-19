@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
             gato.width = 400;
             gato.height = 400;
 
-            addButton.parentNode.appendChild(gato); // Append the new image after the add button
+            addButton.parentNode.appendChild(gato); 
         }
     });
 
